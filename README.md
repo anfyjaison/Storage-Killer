@@ -37,22 +37,15 @@ Screenshots:
 <img width="1483" height="762" alt="Screenshot 2025-08-09 071444" src="https://github.com/user-attachments/assets/4c530dc5-331b-46b7-9acd-666392ec44ac" />
 "The moment of regret begins"
 
-Shows the progress bar mid-execution
+Displays the cheeky notification: "Installing useless files"
 
-Displays the cheeky notification: "Installing useless files... 37% done"
 
-System tray icon visible (proof of persistence)
 
 2. "Completion" Popup
 <img width="1483" height="762" alt="Screenshot 2025-08-09 071458" src="https://github.com/user-attachments/assets/21dbda02-4f31-49a3-915d-82d9db0a4264" />
 
 "When your PC officially becomes a prank victim"
 
-Mock-success message: "Congratulations! 5GB of pure nonsense installed!"
-
-Sarcastic prompt: "Run again for extra disappointment?"
-
-Hidden Yes button that’s slightly larger (psychological manipulation)
 
 3. Trash Files in Drive
 <img width="1904" height="1012" alt="Screenshot 2025-08-09 071521" src="https://github.com/user-attachments/assets/c7d01331-105d-4aa7-b565-bb24d0bdcc26" />
